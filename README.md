@@ -6,8 +6,8 @@
 
 This program is the first project in the Skill Distillery Full Stack Developer course. It is a java program used to calculate the amount of change to be returned to a customer. It will print the change in fifty dollar bills, twenty dollar bills, ten dollar bills, five dollar bills, one dollar bills, quarters, dimes, nickels, and pennies. Program also specifies if change type is singular or plural(ex. one dollar bill & one dollar bills).  
 
-The program was tested based on these test conditions:
-Amount: .67, Tendered: .50, Result: Error message
+## The program was tested based on these test conditions:
+Amount: .67, Tendered: .50, Result: Error message.
 Amount: .67, Tendered: 1.00, Result: 1 quarter, 1 nickel, 3 pennies.
 Amount: .59, Tendered: 1.00, Result: 1 quarter, 1 dime, 1 nickel, 1 penny.
 Amount: 3.96, Tendered: 20.00, Result: 1 ten dollar bill, 1 five dollar bill, 1 one dollar bill, 4 pennies.
