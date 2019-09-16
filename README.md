@@ -15,7 +15,7 @@ Amount: any amount less than 20.00, Tendered: anything greater than amount: corr
 
 ### How to run
 
-The program prompts user/customer to enter the purchase price and then enter the amount of money tendered. The program will then use this information to give them the exact amount of change. The user/customer must enter an amount tendered above the price or else they will receive error message. Program is set up to run once.
+The program prompts user/customer to enter the purchase amount and then enter the amount of money tendered. Once user enters this information the program will then use this information to give them the exact amount of change in bills and coins. The user/customer must enter an amount tendered above the price or else they will receive error message. Program is set up to run once.
 
 ### Technologies/topics used
 
